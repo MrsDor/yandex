@@ -1,0 +1,37 @@
+body {
+    background-color: #f5cba7;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    margin-top: -8px;
+    margin-bottom: 20px;
+}
+
+.form-box {
+    background-color: #f5cba7;
+    border: 1px solid #c89a6e;
+    border-radius: 6px;
+    padding: 20px 24px;
+    max-width: 480px;
+}
+
+.photo-preview {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.photo-preview img {
+    max-width: 300px;
+    max-height: 320px;
+    display: block;
+}
